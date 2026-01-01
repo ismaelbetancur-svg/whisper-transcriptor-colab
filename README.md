@@ -1,2 +1,7 @@
-# whisper-transcriptor-colab
-Script de Python para Google Colab que genera subtítulos SRT limpios usando Whisper Large-v3. Incluye anti-repetición y sincronización de tiempos.
+## 🚀 Cómo usar en Google Colab
+
+Copia y pega este comando en una celda:
+
+```bash
+!wget -O run_whisper.py [https://raw.githubusercontent.com/ismaelbetancur-svg/whisper-transcriptor-colab/main/transcriptor.py](https://raw.githubusercontent.com/ismaelbetancur-svg/whisper-transcriptor-colab/main/transcriptor.py) && python run_whisper.py
+tulos
